@@ -48,6 +48,25 @@
   border-bottom: #337cf2 2px double;
 }
 
+.icon-facebook {
+  color: #337cf2;
+  font-size: 35px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.icon-github {
+  color: black;
+  font-size: 35px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.icon-linkedin {
+  color: blue;
+  font-size: 35px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
 .self-frame {
   position: absolute;
   margin-top: 40px;
@@ -94,9 +113,9 @@
 }
 .frame-heading {
   font-size: 40px;
+  padding-left: 15px;
 }
 .frame-description {
-  padding-left: 10px;
   padding-left: 10px;
   margin-bottom: 10px;
 }
